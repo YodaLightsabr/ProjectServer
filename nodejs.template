@@ -1,0 +1,4 @@
+# Nodejs sample template
+mkdir ~/Projects/${Project.name}
+cd ~/Projects/${Project.name}
+echo '{\n  "type": "module"\n  "name": "${Project.name}"  }'
